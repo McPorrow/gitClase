@@ -47,7 +47,7 @@ public class Clima {
 		}
 		System.out.println("El mes más lluvioso es " + meses[posicion] + " con "
 				+ precipitaciones[posicion] + " en litros.");
-		System.out.println("Cambio para Github");
+		System.out.println("Cambio para Github11");
 
 	}
 	
